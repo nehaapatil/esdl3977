@@ -2,7 +2,6 @@
 void main()
 {
 int a,b,c;
-//add calculator function
 }
 
 //This function gives addition of two numbers
